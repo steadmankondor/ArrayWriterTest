@@ -1,7 +1,7 @@
 // a new for git.
 // http://opencsv.sourceforge.net/apidocs/com/opencsv/CSVWriter.html
 
-package com.kondor.TestArrayWriter;
+package com.kondor;
 
 import com.opencsv.CSVWriter;
 import java.io.*;
