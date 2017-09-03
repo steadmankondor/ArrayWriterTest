@@ -1,4 +1,4 @@
-package com.ivansun.TestArrayWriter;
+package com.kondor.TestArrayWriter;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
