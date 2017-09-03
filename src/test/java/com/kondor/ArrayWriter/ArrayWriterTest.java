@@ -1,4 +1,4 @@
-package com.kondor.TestArrayWriter;
+package com.kondor.ArrayWriter;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -7,7 +7,7 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
-public class TestArrayWriterTest 
+public class ArrayWriterTest 
     extends TestCase
 {
     /**
@@ -15,7 +15,7 @@ public class TestArrayWriterTest
      *
      * @param testName name of the test case
      */
-    public TestArrayWriterTest( String testName )
+    public ArrayWriterTest( String testName )
     {
         super( testName );
     }
@@ -25,7 +25,7 @@ public class TestArrayWriterTest
      */
     public static Test suite()
     {
-        return new TestSuite( TestArrayWriterTest.class );
+        return new TestSuite( ArrayWriterTest.class );
     }
 
     /**
